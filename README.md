@@ -53,7 +53,17 @@ El proyecto sigue una arquitectura modular orientada a la mantenibilidad y escal
 
 ## 📸 Capturas de pantalla
 
-*(Pendiente de añadir)*
+<p align="center">
+  <img src="screenshots/onboarding.png" width="220"/>
+  <img src="screenshots/home.png" width="220"/>
+  <img src="screenshots/routines.png" width="220"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/exercise.png" width="220"/>
+  <img src="screenshots/calculator.png" width="220"/>
+  <img src="screenshots/info_nutrition.png" width="220"/>
+</p>
 
 ---
 
