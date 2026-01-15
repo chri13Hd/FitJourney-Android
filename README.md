@@ -53,29 +53,17 @@ El proyecto sigue una arquitectura modular orientada a la mantenibilidad y escal
 
 ## 📸 Capturas de pantalla
 
-### Onboarding
-![Onboarding](app/screenshots/onboarding.png)
+<p align="center">
+  <img src="app/screenshots/onboarding.png" width="220"/>
+  <img src="app/screenshots/home.png" width="220"/>
+  <img src="app/screenshots/routines.png" width="220"/>
+</p>
 
-### Pantalla principal
-![Home](app/screenshots/home.png)
-
-### Rutinas de entrenamiento
-![Routines](app/screenshots/routines.png)
-
-### Ejercicio
-![Exercise](app/screenshots/exercise.png)
-
-### Calculadora
-![Calculator](app/screenshots/calculator.png)
-
-### Recomendaciones
-![Recommend](app/screenshots/recommend.png)
-
-### Nutrición
-![Nutrition](app/screenshots/info_nutrition.png)
-
-### Noticias
-![News](app/screenshots/news.png)
+<p align="center">
+  <img src="app/screenshots/exercise.png" width="220"/>
+  <img src="app/screenshots/calculator.png" width="220"/>
+  <img src="app/screenshots/info_nutrition.png" width="220"/>
+</p>
 
 ---
 
