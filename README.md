@@ -60,9 +60,9 @@ El proyecto sigue una arquitectura modular orientada a la mantenibilidad y escal
 </p>
 
 <p align="center">
-  <img src="app/screenshots/exercise.png" width="220"/>
+  <img src="app/screenshots/exsercise.png" width="220"/>
   <img src="app/screenshots/calculator.png" width="220"/>
-  <img src="app/screenshots/info_nutrition.png" width="220"/>
+  <img src="app/screenshots/info_nutririon.png" width="220"/>
 </p>
 
 ---
